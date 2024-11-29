@@ -1,4 +1,4 @@
-What is Dockerfile ?
+**What is Dockerfile ?**
 
 A Dockerfile is a text document that contains all the commands needed to assemble an image for a Docker container. It serves as a blueprint for creating Docker images, specifying the operating system, application code, libraries, and dependencies required to run an application in a containerized environment.
 ### Key Components of a Dockerfile:
@@ -33,7 +33,8 @@ CMD ["python", "app.py"]
   - Keep images small by using lightweight base images.
 - **Version Control**: It's a good practice to version your Dockerfiles and keep them in a source control system like Git.
 Dockerfiles are essential for automating the deployment of applications and ensuring consistency across different environments.
-What are the requirements for a Dockerfile?
+
+**What are the requirements for a Dockerfile?**
 A Dockerfile doesn't have strict "requirements" in the traditional sense, but there are several best practices and components that you should consider to create an effective and efficient Dockerfile. Here are some key points to keep in mind:
 
 ### Basic Requirements:
