@@ -1,4 +1,4 @@
-**What is Dockerfile ?**
+What is Dockerfile ?
 
 A Dockerfile is a text document that contains all the commands needed to assemble an image for a Docker container. It serves as a blueprint for creating Docker images, specifying the operating system, application code, libraries, and dependencies required to run an application in a containerized environment.
 ### Key Components of a Dockerfile:
